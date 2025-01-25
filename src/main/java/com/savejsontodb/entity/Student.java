@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 @Setter
 @Data
 @Entity
-@Component
 @Table(name ="student")
 public class Student {
 
